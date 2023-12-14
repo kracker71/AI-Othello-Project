@@ -1,0 +1,4 @@
+pygame==2.5.1
+tqdm
+gym==0.26.0
+numpy
