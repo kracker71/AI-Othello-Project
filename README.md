@@ -1,1 +1,1 @@
-# n'team project
+# AI Othello Project
